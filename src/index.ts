@@ -28,3 +28,5 @@ let a: number = 10;
 let b: string = "test branch";
 
 let c: string[] = ["test", "test2", "test3"];
+
+let d: string = "belajar branch";
