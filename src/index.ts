@@ -24,4 +24,3 @@ console.log("Welcome to TypeScript To-Do App!");
 console.log("Start building your app here...");
 
 let a: number = 10;
-let b: string = "10";
