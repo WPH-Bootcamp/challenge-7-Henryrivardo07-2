@@ -26,3 +26,5 @@ console.log("Start building your app here...");
 let a: number = 10;
 
 let b: string = "test branch";
+
+let c: string[] = ["test", "test2", "test3"];
