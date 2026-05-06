@@ -30,3 +30,11 @@ let b: string = "test branch";
 let c: string[] = ["test", "test2", "test3"];
 
 let d: string = "belajar branch";
+
+let e: { name: string; age: number } = { name: "John", age: 20 };
+
+let f: (name: string, age: number) => string = (name: string, age: number) => {
+  return `Hello ${name} you are ${age} years old`;
+};
+
+let main: string = "main branch";
