@@ -38,3 +38,5 @@ let f: (name: string, age: number) => string = (name: string, age: number) => {
 };
 
 let main: string = "main branch";
+
+let branch_belajar: string = "branch belajar github";
